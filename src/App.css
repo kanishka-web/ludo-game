@@ -1,0 +1,136 @@
+.bg-white{
+  background-color: #fff;
+}
+.bluedots{
+  background-color: blue;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin: 4rem;
+}
+.reddots{
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin: 4rem;
+}
+.yellowdots{
+  background-color:yellow;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin: 4rem;
+}
+.greendots{
+  background-color: green;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin: 4rem;
+}
+.giveborder{
+  border: 1px solid black;
+   height: 34px;
+}
+.giveborderver{
+  border: 1px solid black;
+   height: 68.5px;
+}
+.col{
+  padding-left: 0;
+  padding-right: 0;
+}
+.row
+{
+  padding-left: 0;
+  padding-right: 0;
+}
+.yellow{
+  background-color: yellow;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #e12929;
+}
+.triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid #172fe6;
+	border-bottom: 25px solid transparent;
+}
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #dee51b;
+}
+.triangle-left {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid #15d790;
+	border-bottom: 25px solid transparent;
+}
+/* 
+.square {
+
+  position: relative;
+  background-color: #ccc;
+}
+
+.triangle {
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+
+.top {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid blue;
+  top: 0;
+  left: 50%;
+  transform: translateX(50%);
+}
+
+.right {
+  border-top: 0px solid transparent;
+  border-bottom: 0px solid transparent;
+  border-left: 0px solid red;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.bottom {
+  border-left: 0px solid transparent;
+  border-right: 0px solid transparent;
+  border-top: 0px solid green;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.left {
+  border-top: 0px solid transparent;
+  border-bottom: 0px solid transparent;
+  border-right: 0px solid orange;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+} */
